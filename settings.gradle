@@ -1,0 +1,2 @@
+rootProject.name='Verse Widget'
+include ':app'
