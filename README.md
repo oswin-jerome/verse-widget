@@ -10,7 +10,7 @@
 <div class="container text-center">
     <h1 class="mt-5 text-center heading text-muted">Verse Widget (v1.0.0)</h1>
     <h6>by <a href="https://oswin1998.cf/">Oswin Jerome</a></h6>
-    <a href="https://github.com/oswin-jerome/songs_of_zion/releases/download/v1.0.1/app-release.apk" class="btn btn-success mt-4">Download</a>
+    <a href="https://github.com/oswin-jerome/verse-widget/releases/download/v1.0.0/verse.widget.v1.0.0.apk" class="btn btn-success mt-4">Download</a>
 
 <div class="images row mt-5 mb-5">
         <div class="col-4 ">
