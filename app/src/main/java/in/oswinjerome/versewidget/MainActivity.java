@@ -48,10 +48,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-//        Intent i= new Intent(this, ControllerService.class);
-//        i.putExtra("KEY1", "Value to be used by the service");
-//        this.startService(i);
-
 
         alarmMgr = (AlarmManager)getApplicationContext().getSystemService(Context.ALARM_SERVICE);
         Intent intent = new Intent(getApplicationContext(), MyReceiver.class);

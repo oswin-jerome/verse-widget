@@ -19,6 +19,7 @@ public class PrimaryWidget extends AppWidgetProvider {
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.primary_widget);
         views.setTextColor(R.id.appwidget_text,PrimaryWidgetConfigureActivity.loadFCPref(context,appWidgetId));
 //        views.setTextViewText(R.id.appwidget_text, widgetText);
+
         views.setInt(R.id.widget_bg_pr,"setBackgroundColor",PrimaryWidgetConfigureActivity.loadBCPref(context,appWidgetId));
 
         // Instruct the widget manager to update the widget
