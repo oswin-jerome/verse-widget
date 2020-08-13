@@ -12,7 +12,7 @@
     <h6>by <a href="https://oswin1998.cf/">Oswin Jerome</a></h6>
     <a href="https://github.com/oswin-jerome/songs_of_zion/releases/download/v1.0.1/app-release.apk" class="btn btn-success mt-4">Download</a>
 
-    <div class="images row mt-5 mb-5">
+<div class="images row mt-5 mb-5">
         <div class="col-4 ">
             <img src="./s1.png" class="w-100" alt="" srcset="">
         </div>
